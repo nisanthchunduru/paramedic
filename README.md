@@ -7,7 +7,7 @@ A Stripe API inspired params validation library for Rails
 Add paramedic your Rails app's Gemfile
 
 ```ruby
-gem "paramedic", git: "https://github.com/SupportBee/mail_alternatives_with_attachments", branch: "main"
+gem "paramedic", git: "https://github.com/nisanth074/paramedic", branch: "main"
 ```
 
 and bundle install
