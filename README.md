@@ -93,3 +93,4 @@ end
 ## Todos
 
 - Move rspecs from the app to here
+- Publish to rubygems.org
