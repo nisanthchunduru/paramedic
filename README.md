@@ -1,6 +1,6 @@
 # paramedic
 
-A Stripe API inspired params validation library for Rails
+A params validation library for Rails inspired by Stripe's API
 
 ## Installation
 
@@ -41,7 +41,7 @@ class UsersController
 end
 ```
 
-When a required param is missing or when a param has incorrect type, paramedic will respond 
+When a required param is missing or when a param has incorrect type, paramedic will respond
 
 ```bash
 % curl -X POST http://lvh.me:3000/users --data '{}'
