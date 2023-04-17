@@ -1,3 +1,5 @@
+paramedic has been deprecated in favour of https://github.com/nisanthchunduru/openapi_request_validator
+
 # paramedic
 
 A params validation library for Rails inspired by Stripe's API
